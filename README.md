@@ -23,7 +23,7 @@
 ## 📫 Como me encontrar
 - 📧 jailsonj.barboza@outlook.com
 - 📍 Barueri – SP
-- 🌐 [Meu LinkedIn](www.linkedin.com/in/jailson-joaquim-barboza-625608123)
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/jailson-joaquim-barboza-625608123/)
 
 ---
 
