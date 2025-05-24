@@ -13,17 +13,19 @@
 
 ## 📌 Projetos em destaque
 - [CRUD com Spring Boot](https://github.com/BarbozaJailson) – Em construção...
+- [Front-End com React](https://github.com/BarbozaJailson) – Em construção...
 - [To-do List com JavaScript](https://github.com/BarbozaJailson) – Em breve...
 
 ## 📈 Atualmente estudando
 - Integração de back-end com front-end
-- Autenticação com JWT
-- Deploy de aplicações com GitHub Pages e Render
+- Back-End com Java/Spring boot
+- Front-End com React.js
+- Banco de dados com SQL Server
 
 ## 📫 Como me encontrar
 - 📧 jailsonj.barboza@outlook.com
 - 📍 Barueri – SP
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/jailson-joaquim-barboza-625608123/)
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/jailsonbarboza-dev/)
 
 ---
 
